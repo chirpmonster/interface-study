@@ -1,1 +1,1 @@
-初学interface
+初学interface的练习
